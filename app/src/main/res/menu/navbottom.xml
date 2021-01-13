@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/home"
+            android:enabled="true"
+            android:title="Home"
+            android:icon="@drawable/ic_baseline_home_24"/>
+
+        <item
+            android:id="@+id/card"
+            android:enabled="true"
+            android:title="Card"
+            android:icon="@drawable/ic_iconfinder_cards_3525388"/>
+
+        <item
+            android:id="@+id/player"
+            android:enabled="true"
+            android:title="Top Players"
+            android:icon="@drawable/ic_iconfinder_videogames_casino_chip_poker_gambling_game_6646611"
+            />
+        <item
+            android:id="@+id/strat"
+            android:enabled="true"
+            android:title="Tips"
+            android:icon="@drawable/ic_iconfinder_bulb_light_light_bulb_tips_idea_inspiration_5310253"
+
+            />
+    <item
+        android:id="@+id/Guides"
+        android:enabled="true"
+        android:title="Guide"
+        android:icon="@drawable/ic_instructions"
+        />
+
+</menu>
